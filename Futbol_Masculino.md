@@ -1,4 +1,4 @@
 ---
 title: Fútbol Masculino
-layout: home
+layout: page
 ---
